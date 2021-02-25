@@ -1,0 +1,8 @@
+﻿Euro (EUR), 1.41, â‚¬
+US Dollars (USD), 1.24, $
+Australian Dollars (AUD), 1.86, $
+Bermudan Dollar (BMD), 1.35, $
+Icelandic krÃƒÂ³na (ISK),	141.24, kr
+United Arab Emirates Dirham (AED), 4.12, Ø¯.Ø¥
+South African Rand (ZAR), 16.84, R
+Thai Baht (THB), 42.58,	à¸¿

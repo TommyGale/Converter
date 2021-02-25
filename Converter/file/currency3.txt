@@ -1,0 +1,3 @@
+﻿Mars Bar (B), 1.00, $
+Venus Vacuum (VV), 2.4, $
+Mercury Moon (MM), 55, $
